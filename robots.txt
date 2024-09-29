@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gukom.github.io/RKh/sitemap.RKh.gz
